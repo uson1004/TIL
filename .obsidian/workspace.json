@@ -13,42 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "432cdc2e299ba597",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "10cc1e05ead96552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49b6bcd64a7a53d5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -183,9 +154,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "49b6bcd64a7a53d5",
+  "active": "ccdc94054b7c26ec",
   "lastOpenFiles": [
-    "android.md",
+    "Android.md",
     "Welcome.md"
   ]
 }
