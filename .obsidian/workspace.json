@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "dfb3c1dbb6d5a8a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "e482950492f37046",
             "type": "leaf",
             "state": {
@@ -52,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,11 +197,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "849ec63988d1d9c4",
+  "active": "dfb3c1dbb6d5a8a0",
   "lastOpenFiles": [
-    "Java.md",
+    "자료구조.md",
     "Android.md",
-    "Lauguage.md",
-    "자료구조.md"
+    "Java.md",
+    "Lauguage.md"
   ]
 }
