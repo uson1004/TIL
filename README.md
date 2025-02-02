@@ -1,1 +1,1 @@
-At first it was trivial
+Oh my god
